@@ -16,7 +16,7 @@ This Power BI project visualizes and analyzes sales data from a food stall opera
 ## 📁 Files Included
 - `Stall_report.pbix': Power BI dashboard
 - `sales data (2).xlsx`: Sample data
-- `dashboard_report.pdf`: PDF export of visuals
+- `Stall_report_dashboard.pdf`: PDF export of visuals
 
 ## 🔗 Live Demo
 https://app.powerbi.com/reportEmbed?reportId=366cb213-0c71-4bb4-8215-da87b8de2142&autoAuth=true&ctid=a94ff1ad-e704-467a-a598-31836c8cf544
