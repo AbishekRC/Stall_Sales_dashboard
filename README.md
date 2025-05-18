@@ -14,8 +14,8 @@ This Power BI project visualizes and analyzes sales data from a food stall opera
 - Return on investment by Pie chart
 
 ## 📁 Files Included
-- `College_Stall_Sales.pbix`: Power BI dashboard
-- `sales_data.xlsx`: Sample data
+- `Stall_report.pbix': Power BI dashboard
+- `sales data (2).xlsx`: Sample data
 - `dashboard_report.pdf`: PDF export of visuals
 
 ## 🔗 Live Demo
